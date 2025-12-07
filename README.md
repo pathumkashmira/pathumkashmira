@@ -80,9 +80,8 @@ I bridge the gap between **Traditional Business** and **Modern Tech**.
 <br/>
 
 <div align="center">
-  <!-- Streak Stats & Top Langs -->
+  <!-- Streak Stats Only -->
   <img src="https://streak-stats.demolab.com?user=pathumkashmira&theme=radical&hide_border=true" height="180" alt="Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pathumkashmira&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
 </div>
 
 ---
