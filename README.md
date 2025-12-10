@@ -29,6 +29,12 @@
 <br />
 
 <div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
+
+<br />
+
+<div align="center">
 <table border="0" width="100%">
   <tr>
     <td width="60%" align="left" valign="center">
@@ -53,7 +59,17 @@
 
 <h3 align="center">📊 GitHub Analytics</h3>
 <div align="center">
-  <img src="https://github.com/pathumkashmira/pathumkashmira/blob/main/github-metrics.svg?raw=true" alt="Metrics" width="100%">
+  
+  <img src="./github-metrics.svg" alt="Metrics" width="100%">
+  
+  <br/><br/>
+
+  <img src="https://streak-stats.demolab.com?user=pathumkashmira&theme=radical&hide_border=true" height="180" alt="Streak" />
+  
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pathumkashmira&theme=radical&hide_border=true&area=true" width="100%" />
+
 </div>
 
 <br />
